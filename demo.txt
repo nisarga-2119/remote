@@ -2,3 +2,14 @@ hi welcome to nivasa finance
 Hii Suha here
 hii this is Nisha
 git information for before merge
+ git push -u origin "w_remote"
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 10 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 345 bytes | 345.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:nisarga-2119/remote.git
+   988fa7c..8c8ec1e  w_remote -> w_remote
+branch 'w_remote' set up to track 'origin/w_remote'.
