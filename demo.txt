@@ -13,5 +13,7 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To github.com:nisarga-2119/remote.git
    988fa7c..8c8ec1e  w_remote -> w_remote
 branch 'w_remote' set up to track 'origin/w_remote'.
+hi this is nisarga
+hello srikanth here
 hi chethan is here
 hi this is nisarga
